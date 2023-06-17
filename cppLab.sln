@@ -5,6 +5,8 @@ VisualStudioVersion = 17.5.33530.505
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WirutalnyEkosystem", "WirutalnyEkosystem\WirutalnyEkosystem.vcxproj", "{DB33478B-9850-403E-8964-52B50E9F9F1A}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BrylaZad3", "BrylaZad3\BrylaZad3.vcxproj", "{42671470-7DF5-4D4D-AA35-B02A03D4FBDC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{DB33478B-9850-403E-8964-52B50E9F9F1A}.Release|x64.Build.0 = Release|x64
 		{DB33478B-9850-403E-8964-52B50E9F9F1A}.Release|x86.ActiveCfg = Release|Win32
 		{DB33478B-9850-403E-8964-52B50E9F9F1A}.Release|x86.Build.0 = Release|Win32
+		{42671470-7DF5-4D4D-AA35-B02A03D4FBDC}.Debug|x64.ActiveCfg = Debug|x64
+		{42671470-7DF5-4D4D-AA35-B02A03D4FBDC}.Debug|x64.Build.0 = Debug|x64
+		{42671470-7DF5-4D4D-AA35-B02A03D4FBDC}.Debug|x86.ActiveCfg = Debug|Win32
+		{42671470-7DF5-4D4D-AA35-B02A03D4FBDC}.Debug|x86.Build.0 = Debug|Win32
+		{42671470-7DF5-4D4D-AA35-B02A03D4FBDC}.Release|x64.ActiveCfg = Release|x64
+		{42671470-7DF5-4D4D-AA35-B02A03D4FBDC}.Release|x64.Build.0 = Release|x64
+		{42671470-7DF5-4D4D-AA35-B02A03D4FBDC}.Release|x86.ActiveCfg = Release|Win32
+		{42671470-7DF5-4D4D-AA35-B02A03D4FBDC}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
