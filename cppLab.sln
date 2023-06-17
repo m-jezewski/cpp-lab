@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WirutalnyEkosystem", "Wirut
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BrylaZad3", "BrylaZad3\BrylaZad3.vcxproj", "{42671470-7DF5-4D4D-AA35-B02A03D4FBDC}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "zad_mieszkania", "zad_mieszkania\zad_mieszkania.vcxproj", "{D1A2AB3D-14FA-4DC8-8B02-3663B9F278B4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{42671470-7DF5-4D4D-AA35-B02A03D4FBDC}.Release|x64.Build.0 = Release|x64
 		{42671470-7DF5-4D4D-AA35-B02A03D4FBDC}.Release|x86.ActiveCfg = Release|Win32
 		{42671470-7DF5-4D4D-AA35-B02A03D4FBDC}.Release|x86.Build.0 = Release|Win32
+		{D1A2AB3D-14FA-4DC8-8B02-3663B9F278B4}.Debug|x64.ActiveCfg = Debug|x64
+		{D1A2AB3D-14FA-4DC8-8B02-3663B9F278B4}.Debug|x64.Build.0 = Debug|x64
+		{D1A2AB3D-14FA-4DC8-8B02-3663B9F278B4}.Debug|x86.ActiveCfg = Debug|Win32
+		{D1A2AB3D-14FA-4DC8-8B02-3663B9F278B4}.Debug|x86.Build.0 = Debug|Win32
+		{D1A2AB3D-14FA-4DC8-8B02-3663B9F278B4}.Release|x64.ActiveCfg = Release|x64
+		{D1A2AB3D-14FA-4DC8-8B02-3663B9F278B4}.Release|x64.Build.0 = Release|x64
+		{D1A2AB3D-14FA-4DC8-8B02-3663B9F278B4}.Release|x86.ActiveCfg = Release|Win32
+		{D1A2AB3D-14FA-4DC8-8B02-3663B9F278B4}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
